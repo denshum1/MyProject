@@ -1,10 +1,6 @@
 # MyProject
 
-## **Индивидуальный проект по теме "Главная страница Вольному - Воля!"**
-[![Sponsors on Open Collective](https://opencollective.com/Avalonia/sponsors/badge.svg)](#sponsors) 
-[![Telegram](https://raw.githubusercontent.com/Patrolavia/telegram-badge/master/chat.svg)](https://t.me/Avalonia)
-![AppVeyor](https://img.shields.io/appveyor/build/denshum1/denshum1?label=Build)
-![Логотип](https://xfile.ru/upload/iblock/007/007706e5736172c4dafa91740e494abb.jpg)
+# **Индивидуальный проект по теме "Главная страница Вольному - Воля!"**
 
 ## **📖Что оно из себя представляет?**
 ---
