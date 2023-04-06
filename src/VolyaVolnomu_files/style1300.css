@@ -1,0 +1,24 @@
+@media screen and (min-width: 1300px) { 
+body {font-size: 18px;}
+#wrap {width: 100%; max-width: 1300px;}
+#verh {font-size: 110%;}
+.topImg {width: 100%;}
+#poisk {left: 990px;}
+#end {width: 100%;}
+#sb-right {width: 26%;}
+#content {width: 70%;}
+#naverh img {width: 45px;}
+#gruppa {width: 100%; margin-left: -3%;}
+#table11 {width: 1100px;}
+.v2 {width: 100%;}
+.v2 img {width: 75px; margin-right: 4%;  margin-left: 6%; float: left; border-radius: 30px; }
+h1 {font-size: 36px;}
+#ttt {font-size: 18px;}
+blockquote {font-size: 19px;}
+.k {width: 100%;}
+.k a {font-size: 18px; text-transform: uppercase;}
+.k img {width: 100px; border-radius: initial;}
+#yandex4 { margin-left: 20px; }
+
+
+}

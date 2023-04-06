@@ -1,0 +1,491 @@
+@media screen and (max-width: 1020px)  { 
+body {
+background-color:  #EEE9E9;
+margin: 0px;
+font-size: 14px;
+line-height: 1.5;
+}
+
+.ya-page_js_yes .ya-site-form_inited_no { display: none; }
+#ya-site-form0 .ya-site-form__form .ya-site-form__input-text {border-radius: 0px;}
+
+#gruppa {
+padding-left: 3%;
+width: 95%;
+height: 95%;
+}
+
+
+
+#wrap {
+background-color: #DCDCDC;
+width: 100%;
+margin: 0 auto;
+}
+
+#poisk {
+position: absolute;
+left: 68%;
+right: 15px;
+top: 30px;
+font-family: Arial;
+font-weight: normal;
+text-shadow: none;
+}
+
+#logo { 
+float: left;  
+margin-left: 18px;
+color: #ffffff ;  
+font-weight: normal;
+font-family: 'Philosopher', sans-serif;
+text-shadow: 1px 1px 2px black; 
+}
+
+#logo a {
+color: #FFFFFF;
+font-family: 'Philosopher', sans-serif;
+text-decoration: none; 
+font-weight: bold; 
+text-shadow: 2px 2px 3px black; 
+}
+
+#logo a:hover {
+opacity: 0.7;
+}
+
+#Logo2 {
+display: none;
+}
+
+#Logo2 {  
+position: absolute;
+top: 10px; 
+left: 30%;
+color: #ffffff ; 
+font-size: 14px; 
+font-weight: bold;
+font-family: 'Philosopher', sans-serif;
+text-shadow: 4px 4px 4px black, 0 0 20px black; 
+}
+
+#Logo2 a {
+font-size: 36px; 
+color: #FFFFFF;
+font-family: 'Philosopher', sans-serif;
+text-decoration: none; 
+font-weight: bold; 
+}
+
+#Logo2 a:hover {
+color: red;
+opacity: 0.8;
+}
+
+blockquote {
+  margin: 0;
+}
+
+h1 {
+text-align: left !important;
+font-size: 200% !important;
+color: #6B8E23;
+border-top: 0px solid #4f4f4f;
+}
+
+a {
+color: #0000FF;
+}
+
+a:hover {
+color: red;
+text-decoration: none;
+}
+
+a.class2:link	{ color:#000000; text-decoration: none; }
+a.class2:visited	{ color:#000000 }
+a.class2:active	{ color:#000000 }
+a.class2:hover	{ color:#000000; text-decoration:none; }
+
+/* **Шапка** */
+
+#header {
+position: relative;
+width: 100%;
+}
+
+.topImg {
+width: 100%;
+height: 101px;
+background-image: url('/images/header-image1.jpg');
+border-bottom: 0px solid #4F4F4F;
+}
+
+/* **Основная часть** */
+
+#kkk {
+border-bottom: 1px solid #4F4F4F;
+padding-bottom: 20px;
+margin-bottom: 10px;
+display: none;
+}
+
+#nnn {
+background-color: #4F4F4F;
+color: #FFFFFF;
+text-align: center;
+font-size: 18px;
+font-weight: bold;
+margin-left: 0px;
+padding-top: 3px;
+padding-bottom: 3px;
+border-bottom: 4px solid #6dc331;
+}
+
+#nnn2 {
+background-color:  #4F4F4F;
+text-shadow: 1px 1px 1px #000000;
+color: #FFFFFF;
+text-align: left;
+font-size: 20px;
+font-weight: bold;
+margin-top: 25px;
+padding-left: 10px;
+border-bottom: 4px solid #6dc331;
+display: none;
+}
+
+#mmm {
+border: 1px solid #C1CDCD;
+border-bottom: 0px;
+border-left: 0px;
+border-top: 0px;
+padding-bottom: 0px;
+}
+
+#vvv {
+margin-left: 35px;
+}
+
+#vvv2 {
+margin-left: -15px;
+}
+
+#vvv2 li {
+padding-bottom: 5px;
+}
+
+#verh{ 
+text-align: right;
+color: #4F4F4F;
+font-size: 14px;
+margin-right: -20px !important;
+background-color: #4F4F4F;
+padding-right: 5px !important;
+padding-bottom: 2px !important;
+padding-top: 3px;
+border-bottom: 4px solid grey;
+}
+
+#verh a {
+color: #C1CDCD;
+text-decoration: none;
+padding: 5px;
+}
+
+#verh a:hover {
+color: #6dc331;
+text-decoration: none;
+}
+
+.v2 { 
+margin-top: 0px; 
+margin-left: 0px;
+width: 100% ; 
+background-color: #f5f5f5;
+line-height: 1; 
+}
+
+.v2 a {
+color: black;
+text-decoration: none;
+}
+
+.v2 a:hover {
+color: #6dc331;
+text-decoration: none;
+}
+
+.v2 p {   
+font-size: 120%;
+font-weight: normal;
+}
+
+.v2 img {
+width: 90px;
+max-width: 90px; 
+max-height: 60px;
+margin-right: inherit;
+float: left; 
+border-radius: 30px; 
+}
+
+.v2 li {
+list-style-type: none;
+margin-left: 0px;
+padding-top: 10px;
+padding-bottom: 8px;
+border-top: 1px solid #C1CDCD;
+}
+
+.v2 li:hover {
+background-color: #ffffff;
+border-right: 4px solid #6dc331;
+}
+
+.k { 
+margin-top: 0px; 
+margin-left: 0px;
+width: 100%; 
+background-color: #F5F5F5;
+}
+
+.k a {   
+font-weight:bold;  
+text-transform: uppercase;
+font-size: 16px;
+text-decoration: none;
+}
+
+.k a:hover {
+text-decoration: none;
+color: #6dc331;
+}
+
+.k img {
+width: 100px;    
+margin-right: 4%; 
+margin-left: 5px;
+float: left; 
+border-radius: initial; 
+}
+
+.k li {
+list-style-type: none;
+margin-left: 4px;
+padding-top: 15px;
+padding-bottom: 7%;
+border-bottom: 1px solid #C1CDCD;
+}
+
+#ttt {
+font-size: 14px;
+margin-bottom: -5px;
+padding-top: 10px;
+border-top: 0px solid #4F4F4F;
+}
+
+img {
+max-width: 95%;
+}
+
+#content {
+float: left;
+background-color: #FFFFFF;
+margin: 0px 0;
+width: 62.5%;
+padding: 0 20px;
+margin-bottom: -48px;
+}
+
+#sb-right {
+float: right;
+background-color: #f5f5f5;
+width: 32%;
+margin-left: 0px;
+box-shadow: 1px 1px 3px grey;
+}
+
+/* **Таблицы в разделах** */
+table.kol {
+border: none;
+margin: 0;
+}
+
+.kol a {
+text-decoration: none;
+}
+
+.signs {
+text-align:center;
+}
+
+.kol td {
+padding: 10px 1px 0 0;
+}
+
+.img img {
+max-height: 140px;
+padding-top: 10px;
+}
+
+.img a:hover img {
+opacity:0.8;
+}
+
+/* **Футер** */
+
+#footer {
+padding-top: 0px;
+}
+
+#yandex {
+margin-top: 0px;
+margin-left: -9px;
+display: block;
+}
+
+#yandex4 {
+margin-left: initial;
+}
+
+
+#google1 {
+margin: -15px;
+display: none; 
+}
+
+#google640 {
+display: none;
+}
+
+#google768 {
+display: block;
+}
+
+#google2 {
+margin-left: -9px;
+margin-bottom: 0px;
+display: none;
+}
+
+#google3 {
+margin-left: -9px;
+margin-top: 20px;
+display: none;
+}
+
+#google4 {
+margin-left: -9px;
+display: none;
+}
+
+#5ssylki {
+margin-right: 7px !important;
+padding-top: 3px !important;
+display: none;
+}
+
+.clear {
+clear:both;
+}
+
+#end {
+background-color: #4F4F4F;
+width: 100%;
+height: 190px;
+margin-top: ;
+position:relative;
+border-top: 5px solid darkgrey;
+}
+
+#table11 {
+width: 100%;
+}
+
+#naverh {
+text-align: right;
+padding-bottom: 5px;
+margin-right: 5px;
+}
+
+#naverh img {
+width: 45px;
+}
+
+#naverh a {
+opacity: 0.5;
+}
+
+#naverh a:hover {
+opacity: 1;
+}
+
+#Ftext {
+position: absolute;
+}
+
+#Ftext {
+width: 100%;
+text-align:left;
+font-size: 11px;
+color: #DCDCDC;
+padding-top: 5px;
+padding-bottom: 0px;
+}
+
+#Ftext a {
+color: #C1CDCD;
+font-size: 12px;
+text-decoration: none;
+}
+
+#Ftext a:hover {
+color: #6dc331;
+text-decoration: none;
+}
+
+#Ftext2, Ftext2 a {
+color: #f5f5f5;
+width: 990px;
+text-align:center;
+font-size: 12px;
+padding-top: 50px;
+}
+
+#Ftext2 a {color: #C1CDCD;}
+
+#Ftext2 a:hover {color: #f5f5f5;}
+
+#Ftext2 {
+display: none;
+}
+
+#karta {
+position: absolute;
+text-align: left;
+margin-top: -15px ;
+opacity: 0.1;
+left: 330px;
+}
+
+#karta:hover {
+opacity: 1;
+}
+
+#podval {
+width: 80%;
+margin-left: 125px;
+margin-top: 10px;
+}
+
+#podval strong {font-size: 16px;}
+
+#niz {
+position: absolute;
+top: 165px;
+left: 125px;
+text-align: left;
+}
+
+}

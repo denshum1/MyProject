@@ -1,0 +1,49 @@
+@media screen and (max-width: 260px) { 
+#wrap {width: 98%;}
+.topImg {width: 100%;}
+#logo a {font-size: 150% !important;}
+#logo {float: left; font-size: 100% !important; margin-left: 4%;}
+#logo2 {left: 3%;}
+#logo2 a { font-size: 220% !important;}
+#poisk {display: none;}
+h1 {font-size: 150% !important;}
+#sb-right  {margin-top: -2%; width: 100%;}
+span {font-size: 100% !important;}
+#nnn {padding-top: 1.5%; font-size: 110%;}
+#glavnaya a {font-size: 130%;}
+.v2 {width: 100%;}
+.v2 p {font-size: 100%;}
+.v2 img {width: 30%;}
+h1 {font-size: 160%;}
+.k {width: 100%;}
+#y3 {display: none;}
+#content {float: ; padding: 0 2%; width: 95.5651%; padding-bottom: 10%;}
+#verh {width: 102%; padding-top: 7px; padding-bottom: 3px !important; font-size: 120%; margin-left: -2%; text-align: center; }
+#verh a {padding-top: 2px; padding: 3.5%;}
+img {max-width: 90%;}
+#img-razdely {width: 50%;}
+#google2 {display: none;}
+.clear {width: 100%;}
+#naverh {padding-top: 0%;}
+#footer {width: 100%;}
+#end {height: 90px; width: 100%}
+#Ftext {width: 100%;}
+#Ftext2 {width: 100%; padding-top: 10%;}
+#podval {width: 80%; margin-left: 2%;}
+#table11 {display: none; width: 100%;}
+#niz {left: 10%; top: 100%;}
+#karta {left: 50%; opacity: 0.5; margin-top: 0;}
+.b-body-items {padding-left: 30px; width: 70%;}
+table.kol {margin: -3%; margin-right: 3%; font-size: 90%; line-height: 1.2; }
+.img img {width: 80%;}
+#komenty {display: none;}
+#gruppa {display: none;}
+.video1024 {display: none;}
+.video1020 {display: none;}
+.video768 {display: none !important;}
+.video261 {display: none !important;}
+
+
+
+
+}
