@@ -33,7 +33,6 @@
 После окончания поиска, на первой странице вы сможете обнаружить веб страницу
 
 ![Поиск](https://sun9-70.userapi.com/impg/3jeZDC5jdjWYIuU0d5DoOY2FEHyE5y5wwLq0YA/kyY6rtDCEGA.jpg?size=1280x670&quality=95&sign=53aae9f685e09766c7a5bde1849e92f5&type=album)
-
 ![Сама страница](https://sun9-74.userapi.com/impg/Q6gRTk56mVFnnr7IvulM73Y5WSmSP7w9uJenxw/QJG3nbyDaFk.jpg?size=829x212&quality=95&sign=7a7c4ceb700c7f186ae6931a032b679a&type=album)
 
 ### **Второй путь**
@@ -45,6 +44,7 @@
 ## **А как пользоваться веб страницей? Что можно сделать?**
 ---
 Для пользования данной веб страницей вам понадобится компьютерная мышь, бразуер и подключение к интернету. Собственно, на самой странице у вас имеется возможность перейти на различные страницы сайта, например на страницу о рыбалке
+
 ![Указание на страницу о рыбалке](https://sun9-8.userapi.com/impg/KepM6lOaNs6yh1cvseW9T99U0WJR-eEhyT7JmA/TyI4eYjX5No.jpg?size=1280x647&quality=95&sign=d9afbc3204d7d3a9e4f3ac8e478f9512&type=album)
 
 Также, для особо интересующихся, здесь имеются последние публикации, на которые также можно перейти.
